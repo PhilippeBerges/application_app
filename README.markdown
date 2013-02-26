@@ -1,4 +1,8 @@
-== Welcome to Rails
+# Tutoriel Ruby on Rails : Application Exemple
+
+C'est l'Application Exemple pour le
+[*Tutoriel Ruby on Rails : Apprendre Rails par l'exemple*](http://railstutorial.org/)
+par [Michael Hartl](http://michaelhartl.com/).
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
@@ -17,13 +21,7 @@ database rows as objects and embellish these data objects with business logic
 methods. You can read more about Active Record in
 link:files/vendor/rails/activerecord/README.html.
 
-The controller and view are handled by the Action Pack, which handles both
-layers by its two parts: Action View and Action Controller. These two layers
-are bundled in a single package due to their heavy interdependence. This is
-unlike the relationship between the Active Record and Action Pack that is much
-more separate. Each of these packages can be used independently outside of
-Rails. You can read more about Action Pack in
-link:files/vendor/rails/actionpack/README.html.
+
 
 
 == Getting Started
